@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>http://edeck.live/photograph/</loc>
+  <lastmod>2021-03-01T05:20:27+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://edeck.live/photograph/index.php</loc>
+  <lastmod>2021-03-01T05:20:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://edeck.live/photograph/photography.php</loc>
+  <lastmod>2021-03-01T05:20:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://edeck.live/photograph/blog.php</loc>
+  <lastmod>2021-03-01T05:20:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://edeck.live/photograph/contact.php</loc>
+  <lastmod>2021-03-01T05:20:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://edeck.live/photograph/about.php</loc>
+  <lastmod>2021-03-01T05:20:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://edeck.live/photograph/single.php</loc>
+  <lastmod>2021-03-01T05:20:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://edeck.live/photograph/gallery.php?processing=PRE-WEDDING</loc>
+  <lastmod>2021-03-01T05:20:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://edeck.live/photograph/gallery.php?processing=WEDDING</loc>
+  <lastmod>2021-03-01T05:20:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://edeck.live/photograph/gallery.php?processing=BUMP-CLICKS</loc>
+  <lastmod>2021-03-01T05:20:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://edeck.live/photograph/gallery.php?processing=TALKIES</loc>
+  <lastmod>2021-03-01T05:20:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://edeck.live/photograph/gallery.php?processing=FOLIO</loc>
+  <lastmod>2021-03-01T05:20:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://edeck.live/photograph/gallery.php?processing=LITTLE-ONES</loc>
+  <lastmod>2021-03-01T05:20:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://edeck.live/photograph/memories.php?image=AMIT-PRIYANKA</loc>
+  <lastmod>2021-03-01T05:20:27+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://edeck.live/photograph/memories.php?image=ROHAN-SHANAYA</loc>
+  <lastmod>2021-03-01T05:20:27+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://edeck.live/photograph/memories.php?image=RAJ-PRIYANKA</loc>
+  <lastmod>2021-03-01T05:20:27+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://edeck.live/photograph/memories.php?image=HRISHI-ANISHA</loc>
+  <lastmod>2021-03-01T05:20:27+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://edeck.live/photograph/memories.php?image=HRITIK-NISHA</loc>
+  <lastmod>2021-03-01T05:20:27+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://edeck.live/photograph/memories.php?image=NEHA-AVISH</loc>
+  <lastmod>2021-03-01T05:20:27+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://edeck.live/photograph/memories.php?image=RAJDEEP</loc>
+  <lastmod>2021-03-01T05:20:27+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>

@@ -1,0 +1,12 @@
+RewriteEngine on
+
+DirectoryIndex login.php
+RewriteCond %{HTTP_REFERER} !^http://edeck.live/photograph/Admin/login.php.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://edeck.live/photograph/Admin/login.php$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.edeck.live/photograph/Admin/login.php.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.edeck.live/photograph/Admin/login.php$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://edeck.live/photograph/Admin/login.php.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://edeck.live/photograph/Admin/login.php$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.edeck.live/photograph/Admin/login.php.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.edeck.live/photograph/Admin/login.php$      [NC]
+RewriteRule .*\.(jpg|jpeg|gif|png|bmp)$ - [NC]

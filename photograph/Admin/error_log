@@ -1,0 +1,269 @@
+[16-Jun-2020 05:09:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:09:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:09:19 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/aayushr1/public_html/Admin/index.php on line 14
+[16-Jun-2020 05:09:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 16
+[16-Jun-2020 05:09:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/aayushr1/public_html/Admin/includes/dbh.inc.php on line 10
+[16-Jun-2020 05:09:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/aayushr1/public_html/Admin/server.php on line 13
+[16-Jun-2020 05:10:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/aayushr1/public_html/Admin/server.php on line 13
+[16-Jun-2020 05:10:02 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/aayushr1/public_html/Admin/server.php on line 61
+[16-Jun-2020 05:10:02 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/aayushr1/public_html/Admin/server.php on line 62
+[16-Jun-2020 05:10:38 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:10:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:10:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/aayushr1/public_html/Admin/includes/dbh.inc.php on line 10
+[16-Jun-2020 05:11:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:11:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:11:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/aayushr1/public_html/Admin/includes/dbh.inc.php on line 10
+[16-Jun-2020 05:11:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:11:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:11:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/aayushr1/public_html/Admin/includes/dbh.inc.php on line 10
+[16-Jun-2020 05:12:01 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:12:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:12:01 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/aayushr1/public_html/Admin/index.php on line 14
+[16-Jun-2020 05:12:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 16
+[16-Jun-2020 05:12:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/aayushr1/public_html/Admin/includes/dbh.inc.php on line 10
+[16-Jun-2020 05:12:02 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:12:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:12:02 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/aayushr1/public_html/Admin/index.php on line 14
+[16-Jun-2020 05:12:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 16
+[16-Jun-2020 05:12:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/aayushr1/public_html/Admin/includes/dbh.inc.php on line 10
+[16-Jun-2020 05:12:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:12:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:12:03 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/aayushr1/public_html/Admin/index.php on line 14
+[16-Jun-2020 05:12:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 16
+[16-Jun-2020 05:12:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/aayushr1/public_html/Admin/includes/dbh.inc.php on line 10
+[16-Jun-2020 05:12:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:12:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:12:03 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/aayushr1/public_html/Admin/index.php on line 14
+[16-Jun-2020 05:12:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 16
+[16-Jun-2020 05:12:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/aayushr1/public_html/Admin/includes/dbh.inc.php on line 10
+[16-Jun-2020 05:12:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:12:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:12:03 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/aayushr1/public_html/Admin/index.php on line 14
+[16-Jun-2020 05:12:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 16
+[16-Jun-2020 05:12:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/aayushr1/public_html/Admin/includes/dbh.inc.php on line 10
+[16-Jun-2020 05:12:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:12:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:12:03 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/aayushr1/public_html/Admin/index.php on line 14
+[16-Jun-2020 05:12:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 16
+[16-Jun-2020 05:12:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/aayushr1/public_html/Admin/includes/dbh.inc.php on line 10
+[16-Jun-2020 05:16:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:16:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:16:24 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/aayushr1/public_html/Admin/index.php on line 14
+[16-Jun-2020 05:16:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 16
+[16-Jun-2020 05:16:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/aayushr1/public_html/Admin/includes/dbh.inc.php on line 10
+[16-Jun-2020 05:16:36 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:16:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:16:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/aayushr1/public_html/Admin/includes/dbh.inc.php on line 10
+[16-Jun-2020 05:21:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:21:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:21:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/aayushr1/public_html/Admin/includes/dbh.inc.php on line 10
+[16-Jun-2020 05:21:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:21:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:21:26 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/aayushr1/public_html/Admin/index.php on line 14
+[16-Jun-2020 05:21:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 16
+[16-Jun-2020 05:21:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/aayushr1/public_html/Admin/includes/dbh.inc.php on line 10
+[16-Jun-2020 05:21:28 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:21:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:21:28 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/aayushr1/public_html/Admin/index.php on line 14
+[16-Jun-2020 05:21:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 16
+[16-Jun-2020 05:21:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/aayushr1/public_html/Admin/includes/dbh.inc.php on line 10
+[16-Jun-2020 05:21:31 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:21:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:21:31 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/aayushr1/public_html/Admin/index.php on line 14
+[16-Jun-2020 05:21:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 16
+[16-Jun-2020 05:21:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/aayushr1/public_html/Admin/includes/dbh.inc.php on line 10
+[16-Jun-2020 05:21:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:21:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:21:33 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/aayushr1/public_html/Admin/index.php on line 14
+[16-Jun-2020 05:21:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 16
+[16-Jun-2020 05:21:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/aayushr1/public_html/Admin/includes/dbh.inc.php on line 10
+[16-Jun-2020 05:21:34 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:21:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:21:34 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/aayushr1/public_html/Admin/index.php on line 14
+[16-Jun-2020 05:21:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 16
+[16-Jun-2020 05:21:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/aayushr1/public_html/Admin/includes/dbh.inc.php on line 10
+[16-Jun-2020 05:27:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:27:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:27:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/aayushr1/public_html/Admin/includes/dbh.inc.php on line 10
+[16-Jun-2020 05:29:21 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:29:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:29:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/aayushr1/public_html/Admin/includes/dbh.inc.php on line 10
+[16-Jun-2020 05:29:36 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:29:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:29:36 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/aayushr1/public_html/Admin/index.php on line 14
+[16-Jun-2020 05:29:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 16
+[16-Jun-2020 05:29:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/aayushr1/public_html/Admin/includes/dbh.inc.php on line 10
+[16-Jun-2020 05:31:41 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:31:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:31:41 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/aayushr1/public_html/Admin/index.php on line 14
+[16-Jun-2020 05:31:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 16
+[16-Jun-2020 05:31:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/aayushr1/public_html/Admin/includes/dbh.inc.php on line 10
+[16-Jun-2020 05:31:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:31:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:31:43 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/aayushr1/public_html/Admin/index.php on line 14
+[16-Jun-2020 05:31:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 16
+[16-Jun-2020 05:31:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/aayushr1/public_html/Admin/includes/dbh.inc.php on line 10
+[16-Jun-2020 05:31:45 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:31:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:31:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/aayushr1/public_html/Admin/includes/dbh.inc.php on line 10
+[16-Jun-2020 05:31:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/aayushr1/public_html/Admin/includes/dbh.inc.php on line 10
+[16-Jun-2020 05:31:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/aayushr1/public_html/Admin/tab.php on line 126
+[16-Jun-2020 05:31:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/aayushr1/public_html/Admin/tab.php on line 141
+[16-Jun-2020 05:32:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:32:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:32:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/aayushr1/public_html/Admin/includes/dbh.inc.php on line 10
+[16-Jun-2020 05:32:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/aayushr1/public_html/Admin/includes/dbh.inc.php on line 10
+[16-Jun-2020 05:32:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/aayushr1/public_html/Admin/tab.php on line 126
+[16-Jun-2020 05:32:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/aayushr1/public_html/Admin/tab.php on line 141
+[16-Jun-2020 05:33:47 UTC] PHP Warning:  include_once(/includes/dbh.inc.php): failed to open stream: No such file or directory in /home/aayushr1/public_html/Admin/tab.php on line 125
+[16-Jun-2020 05:33:47 UTC] PHP Warning:  include_once(): Failed opening '/includes/dbh.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/aayushr1/public_html/Admin/tab.php on line 125
+[16-Jun-2020 05:33:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aayushr1/public_html/Admin/tab.php on line 126
+[16-Jun-2020 05:33:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/aayushr1/public_html/Admin/tab.php on line 141
+[16-Jun-2020 05:33:47 UTC] PHP Warning:  mysqli_stmt_init() expects parameter 1 to be mysqli, null given in /home/aayushr1/public_html/Admin/tab.php on line 173
+[16-Jun-2020 05:33:47 UTC] PHP Warning:  mysqli_stmt_prepare() expects parameter 1 to be mysqli_stmt, null given in /home/aayushr1/public_html/Admin/tab.php on line 174
+[16-Jun-2020 05:34:08 UTC] PHP Warning:  include_once(Admin/includes/dbh.inc.php): failed to open stream: No such file or directory in /home/aayushr1/public_html/Admin/tab.php on line 125
+[16-Jun-2020 05:34:08 UTC] PHP Warning:  include_once(): Failed opening 'Admin/includes/dbh.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/aayushr1/public_html/Admin/tab.php on line 125
+[16-Jun-2020 05:34:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aayushr1/public_html/Admin/tab.php on line 126
+[16-Jun-2020 05:34:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/aayushr1/public_html/Admin/tab.php on line 141
+[16-Jun-2020 05:34:08 UTC] PHP Warning:  mysqli_stmt_init() expects parameter 1 to be mysqli, null given in /home/aayushr1/public_html/Admin/tab.php on line 173
+[16-Jun-2020 05:34:08 UTC] PHP Warning:  mysqli_stmt_prepare() expects parameter 1 to be mysqli_stmt, null given in /home/aayushr1/public_html/Admin/tab.php on line 174
+[16-Jun-2020 05:34:11 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:34:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:34:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:34:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:34:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/aayushr1/public_html/Admin/includes/dbh.inc.php on line 10
+[16-Jun-2020 05:34:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/aayushr1/public_html/Admin/includes/dbh.inc.php on line 10
+[16-Jun-2020 05:34:39 UTC] PHP Warning:  include_once(Admin/includes/dbh.inc.php): failed to open stream: No such file or directory in /home/aayushr1/public_html/Admin/tab.php on line 125
+[16-Jun-2020 05:34:39 UTC] PHP Warning:  include_once(): Failed opening 'Admin/includes/dbh.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/aayushr1/public_html/Admin/tab.php on line 125
+[16-Jun-2020 05:34:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aayushr1/public_html/Admin/tab.php on line 126
+[16-Jun-2020 05:34:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/aayushr1/public_html/Admin/tab.php on line 141
+[16-Jun-2020 05:34:39 UTC] PHP Warning:  mysqli_stmt_init() expects parameter 1 to be mysqli, null given in /home/aayushr1/public_html/Admin/tab.php on line 173
+[16-Jun-2020 05:34:39 UTC] PHP Warning:  mysqli_stmt_prepare() expects parameter 1 to be mysqli_stmt, null given in /home/aayushr1/public_html/Admin/tab.php on line 174
+[16-Jun-2020 05:37:01 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:37:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:37:01 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/aayushr1/public_html/Admin/index.php on line 14
+[16-Jun-2020 05:37:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 16
+[16-Jun-2020 05:37:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/aayushr1/public_html/Admin/includes/dbh.inc.php on line 10
+[16-Jun-2020 05:37:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:37:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:37:05 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/aayushr1/public_html/Admin/index.php on line 14
+[16-Jun-2020 05:37:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 16
+[16-Jun-2020 05:37:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/aayushr1/public_html/Admin/includes/dbh.inc.php on line 10
+[16-Jun-2020 05:37:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:37:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:37:08 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/aayushr1/public_html/Admin/index.php on line 14
+[16-Jun-2020 05:37:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 16
+[16-Jun-2020 05:37:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/aayushr1/public_html/Admin/includes/dbh.inc.php on line 10
+[16-Jun-2020 05:37:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:37:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:37:22 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/aayushr1/public_html/Admin/index.php on line 14
+[16-Jun-2020 05:37:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:37:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 16
+[16-Jun-2020 05:37:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:37:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/aayushr1/public_html/Admin/includes/dbh.inc.php on line 10
+[16-Jun-2020 05:37:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/aayushr1/public_html/Admin/includes/dbh.inc.php on line 10
+[16-Jun-2020 05:37:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:37:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:37:25 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/aayushr1/public_html/Admin/index.php on line 14
+[16-Jun-2020 05:37:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 16
+[16-Jun-2020 05:37:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/aayushr1/public_html/Admin/includes/dbh.inc.php on line 10
+[16-Jun-2020 05:37:48 UTC] PHP Warning:  include_once(Admin/includes/dbh.inc.php): failed to open stream: No such file or directory in /home/aayushr1/public_html/Admin/tab.php on line 125
+[16-Jun-2020 05:37:48 UTC] PHP Warning:  include_once(): Failed opening 'Admin/includes/dbh.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/aayushr1/public_html/Admin/tab.php on line 125
+[16-Jun-2020 05:37:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aayushr1/public_html/Admin/tab.php on line 126
+[16-Jun-2020 05:37:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/aayushr1/public_html/Admin/tab.php on line 141
+[16-Jun-2020 05:37:48 UTC] PHP Warning:  mysqli_stmt_init() expects parameter 1 to be mysqli, null given in /home/aayushr1/public_html/Admin/tab.php on line 173
+[16-Jun-2020 05:37:48 UTC] PHP Warning:  mysqli_stmt_prepare() expects parameter 1 to be mysqli_stmt, null given in /home/aayushr1/public_html/Admin/tab.php on line 174
+[16-Jun-2020 05:40:07 UTC] PHP Warning:  include_once(Admin/includes/dbh.inc.php): failed to open stream: No such file or directory in /home/aayushr1/public_html/Admin/tab.php on line 125
+[16-Jun-2020 05:40:07 UTC] PHP Warning:  include_once(): Failed opening 'Admin/includes/dbh.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/aayushr1/public_html/Admin/tab.php on line 125
+[16-Jun-2020 05:40:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aayushr1/public_html/Admin/tab.php on line 126
+[16-Jun-2020 05:40:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/aayushr1/public_html/Admin/tab.php on line 141
+[16-Jun-2020 05:40:07 UTC] PHP Warning:  mysqli_stmt_init() expects parameter 1 to be mysqli, null given in /home/aayushr1/public_html/Admin/tab.php on line 173
+[16-Jun-2020 05:40:07 UTC] PHP Warning:  mysqli_stmt_prepare() expects parameter 1 to be mysqli_stmt, null given in /home/aayushr1/public_html/Admin/tab.php on line 174
+[16-Jun-2020 05:40:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:40:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:41:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:41:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:41:00 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/aayushr1/public_html/Admin/index.php on line 14
+[16-Jun-2020 05:41:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 16
+[16-Jun-2020 05:41:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:41:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:41:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:41:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:41:38 UTC] PHP Warning:  include_once(Admin/includes/dbh.inc.php): failed to open stream: No such file or directory in /home/aayushr1/public_html/Admin/tab.php on line 125
+[16-Jun-2020 05:41:38 UTC] PHP Warning:  include_once(): Failed opening 'Admin/includes/dbh.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/aayushr1/public_html/Admin/tab.php on line 125
+[16-Jun-2020 05:41:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aayushr1/public_html/Admin/tab.php on line 126
+[16-Jun-2020 05:41:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/aayushr1/public_html/Admin/tab.php on line 141
+[16-Jun-2020 05:41:38 UTC] PHP Warning:  mysqli_stmt_init() expects parameter 1 to be mysqli, null given in /home/aayushr1/public_html/Admin/tab.php on line 173
+[16-Jun-2020 05:41:38 UTC] PHP Warning:  mysqli_stmt_prepare() expects parameter 1 to be mysqli_stmt, null given in /home/aayushr1/public_html/Admin/tab.php on line 174
+[16-Jun-2020 05:43:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:43:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:43:47 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:43:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:44:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:44:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:47:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:47:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:57:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:57:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:57:23 UTC] PHP Warning:  include_once(/includes/dbh.inc.php): failed to open stream: No such file or directory in /home/aayushr1/public_html/Admin/index.php on line 113
+[16-Jun-2020 05:57:23 UTC] PHP Warning:  include_once(): Failed opening '/includes/dbh.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/aayushr1/public_html/Admin/index.php on line 113
+[16-Jun-2020 05:57:23 UTC] PHP Warning:  mysqli_stmt_init() expects parameter 1 to be mysqli, null given in /home/aayushr1/public_html/Admin/index.php on line 115
+[16-Jun-2020 05:57:23 UTC] PHP Warning:  mysqli_stmt_prepare() expects parameter 1 to be mysqli_stmt, null given in /home/aayushr1/public_html/Admin/index.php on line 116
+[16-Jun-2020 05:57:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 05:57:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 05:57:26 UTC] PHP Warning:  include_once(/includes/dbh.inc.php): failed to open stream: No such file or directory in /home/aayushr1/public_html/Admin/index.php on line 113
+[16-Jun-2020 05:57:26 UTC] PHP Warning:  include_once(): Failed opening '/includes/dbh.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/aayushr1/public_html/Admin/index.php on line 113
+[16-Jun-2020 05:57:26 UTC] PHP Warning:  mysqli_stmt_init() expects parameter 1 to be mysqli, null given in /home/aayushr1/public_html/Admin/index.php on line 115
+[16-Jun-2020 05:57:26 UTC] PHP Warning:  mysqli_stmt_prepare() expects parameter 1 to be mysqli_stmt, null given in /home/aayushr1/public_html/Admin/index.php on line 116
+[16-Jun-2020 06:01:07 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 06:01:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 06:39:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 06:39:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 06:39:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 06:39:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 06:39:23 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/aayushr1/public_html/Admin/index.php on line 14
+[16-Jun-2020 06:39:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 16
+[16-Jun-2020 06:39:44 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 06:39:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 07:01:41 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 07:01:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 07:04:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 07:04:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 07:04:46 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/aayushr1/public_html/Admin/index.php on line 14
+[16-Jun-2020 07:04:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 16
+[16-Jun-2020 07:04:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 07:04:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 07:04:49 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/aayushr1/public_html/Admin/index.php on line 14
+[16-Jun-2020 07:04:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 16
+[16-Jun-2020 07:04:55 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 07:04:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 07:04:55 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/aayushr1/public_html/Admin/index.php on line 14
+[16-Jun-2020 07:04:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 16
+[16-Jun-2020 07:04:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 07:04:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 07:04:59 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/aayushr1/public_html/Admin/index.php on line 14
+[16-Jun-2020 07:04:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 16
+[16-Jun-2020 07:08:11 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 07:08:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 07:08:11 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/aayushr1/public_html/Admin/index.php on line 14
+[16-Jun-2020 07:08:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 16
+[16-Jun-2020 07:08:41 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 07:08:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[16-Jun-2020 07:08:51 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/aayushr1/public_html/Admin/logout.php on line 2
+[16-Jun-2020 07:09:52 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/aayushr1/public_html/Admin/index.php on line 4
+[16-Jun-2020 07:09:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aayushr1/public_html/Admin/index.php:1) in /home/aayushr1/public_html/Admin/index.php on line 9
+[18-Jul-2020 15:41:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/edeck/public_html/Edeck.live/photograph/Admin/server.php on line 13
+[18-Jul-2020 15:42:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/edeck/public_html/Edeck.live/photograph/Admin/server.php on line 13
+[18-Jul-2020 15:57:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/edeck/public_html/Edeck.live/photograph/Admin/Login.php on line 103
+[18-Jul-2020 15:57:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/edeck/public_html/Edeck.live/photograph/Admin/Login.php on line 103
+[18-Jul-2020 15:57:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/edeck/public_html/Edeck.live/photograph/Admin/Login.php on line 103
+[18-Jul-2020 15:57:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/edeck/public_html/Edeck.live/photograph/Admin/Login.php on line 103
+[18-Jul-2020 15:57:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/edeck/public_html/Edeck.live/photograph/Admin/Login.php on line 103
+[18-Jul-2020 15:57:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/edeck/public_html/Edeck.live/photograph/Admin/Login.php on line 103
+[18-Jul-2020 15:58:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/edeck/public_html/Edeck.live/photograph/Admin/Login.php on line 103
+[18-Jul-2020 15:58:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/edeck/public_html/Edeck.live/photograph/Admin/Login.php on line 103
+[18-Jul-2020 15:58:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/edeck/public_html/Edeck.live/photograph/Admin/Login.php on line 103
+[18-Jul-2020 15:58:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/edeck/public_html/Edeck.live/photograph/Admin/Login.php on line 103
+[18-Jul-2020 15:58:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/edeck/public_html/Edeck.live/photograph/Admin/Login.php on line 103
+[18-Jul-2020 15:59:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/edeck/public_html/Edeck.live/photograph/Admin/Login.php on line 103
+[18-Jul-2020 16:00:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/edeck/public_html/Edeck.live/photograph/Admin/Login.php on line 103

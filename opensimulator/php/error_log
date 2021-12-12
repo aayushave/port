@@ -1,0 +1,13 @@
+[12-Apr-2020 11:51:46 UTC] PHP Parse error:  syntax error, unexpected '"Thank You!"' (T_CONSTANT_ENCAPSED_STRING) in /home/aayushra/public_html/php/contact.php on line 10
+[12-Apr-2020 11:51:52 UTC] PHP Parse error:  syntax error, unexpected '"Thank You!"' (T_CONSTANT_ENCAPSED_STRING) in /home/aayushra/public_html/php/contact.php on line 10
+[12-Apr-2020 11:56:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/aayushra/public_html/php/contact.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/aayushra/public_html/php/contact.php on line 11
+[12-Apr-2020 11:56:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/aayushra/public_html/php/contact.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/aayushra/public_html/php/contact.php on line 11
+[12-May-2020 06:06:11 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/aayushra/public_html/php/contact.php on line 20
+[12-May-2020 06:06:39 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/aayushra/public_html/php/contact.php on line 20
+[12-May-2020 06:06:44 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/aayushra/public_html/php/contact.php on line 20

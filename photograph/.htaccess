@@ -1,0 +1,13 @@
+RewriteEngine on
+
+DirectoryIndex index.php
+RewriteCond %{HTTP_REFERER} !^http://edeck.live/index.php.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://edeck.live/index.php$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.edeck.live/index.php.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.edeck.live/index.php$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://edeck.live/index.php.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://edeck.live/index.php$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.edeck.live/index.php.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.edeck.live/index.php$      [NC]
+RewriteRule .*\.(jpg|jpeg|gif|png|bmp|ico)$ - [NC]
+
